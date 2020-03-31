@@ -1,7 +1,7 @@
  
 
 nav {
-    background: lightgray;
+    background: lightskyblue;
 }
 
 body {
@@ -81,11 +81,11 @@ a:hover {
 }
 
 .g-1 {
-    color: white;
+    color: yellow;
 }
 
 .p-1 {
-    color: yellow;
+    color: black;
 }
 
 .e-1 {
