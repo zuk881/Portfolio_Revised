@@ -8,3 +8,4 @@
 * Rebuilt image links to Materialize reveal cards with project descriptions, links to github code and deployed projects.
 * Linked in and using Materialize-Social and Font Awesome for logo buttons used for links.
 * Added newest projects to carousel.
+### Link to deployed project: https://zuk881.github.io/Portfolio_Revised/
