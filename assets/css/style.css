@@ -2,6 +2,7 @@
 
 nav {
     background: lightskyblue;
+    opacity: .8;
 }
 
 body {
@@ -74,22 +75,22 @@ img:hover {
 
 .l-1 {
     color: blue;
-}
-
-a:hover {
-    color: purple;
+    font-weight: 700;
 }
 
 .g-1 {
-    color: yellow;
+    color: red;
+    font-weight: 700;
 }
 
 .p-1 {
     color: black;
+    font-weight: 700;
 }
 
 .e-1 {
-    color:purple;
+    color:black;
+    font-weight: 700;
 }
 
 .play {
@@ -104,4 +105,16 @@ a:hover {
  background-color: lightgray;
 }
 
+#btn-1 {
+    background-color: rgb(92, 92, 180);
+    border-radius: 7px;
+}
 
+i.right:hover {
+   color: yellow;
+}
+
+a:hover {
+    color: yellow;
+ }
+ 
