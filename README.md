@@ -1,6 +1,7 @@
 # Portfolio_Revised
 ## Tech used for project include HTML/CSS, JavaScript, JQuery, Materialize, Materialize_Social, Font Awesome, Owl.js,
-## and Google Fonts!
+and Google Fonts!
+
 ## Another attempt to build my portfolio using 1 page and materialize
 ### Rebuild portfolio while trying to make it more modern, use better color palet, and try new ideas!
 * Added a beach background with more soothing color and eliminated footer.
