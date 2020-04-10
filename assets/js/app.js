@@ -12,7 +12,7 @@ $(document).ready(function () {
        loop:true,
        margin:10,
        autoplay:true,
-       autoplayTimeout:2000,
+       autoplayTimeout:1800,
        autoplayHoverPause:true,
        responsive : {
         // breakpoint from 0 up
