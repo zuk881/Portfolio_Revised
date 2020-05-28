@@ -1,5 +1,3 @@
- 
-
 nav {
     background: lightskyblue;
     opacity: .8;
@@ -11,7 +9,7 @@ body {
     font-family: sans-serif;
     color: black;
     background-image: url("../images/beach-4.jpg");
-    background-repeat: fixed;
+    background-repeat: round;
     min-height: calc(100vh - 70px);
 }
 
