@@ -116,3 +116,8 @@ a:hover {
     color: yellow;
  }
  
+ 
+#bio {
+    background-color: rgba(135, 206, 250, 0.801);
+}
+
