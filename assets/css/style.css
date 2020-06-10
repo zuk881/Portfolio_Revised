@@ -121,3 +121,21 @@ a:hover {
     background-color: rgba(135, 206, 250, 0.801);
 }
 
+@media screen and (max-width: 980px) {
+       
+    body{
+    background-image: none;    
+    background-color: papayawhip;
+    line-height: 21px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        text-align: center;
+        margin: .8rem;
+       }
+    
+    p {
+        font-size: .6em;
+    }   
+}

@@ -21,15 +21,15 @@ $(document).ready(function () {
         },
         // breakpoint from 480 up
         480 : {
-            itmes:2
+            itmes:1
         },
         // breakpoint from 768 up
         768 : {
-            items:3
+            items:2
          },
          // breakpoint from 1000 up
         1000 : {
-            items:4
+            items:3
          }
     }
    
