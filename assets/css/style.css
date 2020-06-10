@@ -121,6 +121,30 @@ a:hover {
     background-color: rgba(135, 206, 250, 0.63);
 }
 
+@media screen and (max-width: 1366px) {
+    h1 {
+       font-size: 3.2rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+
+    }
+
+    .bio_img {
+        width: 15%;
+    }
+
+    body {
+        line-height: 30px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+}
+
 @media screen and (max-width: 980px) {
        
     body{
@@ -137,5 +161,9 @@ a:hover {
     
     p {
         font-size: .6em;
-    }   
+    }
+    
+    .container {
+        width: 100%;
+    }
 }
