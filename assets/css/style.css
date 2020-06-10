@@ -118,15 +118,15 @@ a:hover {
  
  
 #bio {
-    background-color: rgba(135, 206, 250, 0.801);
+    background-color: rgba(135, 206, 250, 0.63);
 }
 
 @media screen and (max-width: 980px) {
        
     body{
-    background-image: none;    
-    background-color: papayawhip;
-    line-height: 21px;
+        background-image: none;    
+        background-color: papayawhip;
+        line-height: 21px;
     }
 
     h1 {
